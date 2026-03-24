@@ -8,5 +8,10 @@ namespace PIS1_LZ
 {
     internal class Class1
     {
+        void prazna() { }
     }
+
+
 }
+
+
