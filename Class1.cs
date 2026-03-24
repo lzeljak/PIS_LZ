@@ -8,5 +8,6 @@ namespace PIS1_LZ
 {
     internal class Class1
     {
+        //a jest ljuta korsa
     }
 }
