@@ -6,6 +6,6 @@ Console.WriteLine("Hello, World!");
 
 static int Main()
 {
-    Console.WriteLine("Novoo");
+    Console.WriteLine("Novo");
     return 0;
 }
